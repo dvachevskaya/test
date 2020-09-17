@@ -5,7 +5,7 @@
   </a>
 
 
-  <h3 align="center">
+  <h1 align="center">
     New PixelBattle Bot (если будут ошибки - в <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">эту</a> конфу спрашивать 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
@@ -17,7 +17,7 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
-</h3>
+</h1>
 
 
 # New PixelBattle Bot (если будут ошибки - в [эту](https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg) конфу спрашивать )
