@@ -16,7 +16,7 @@
     <br />
 
 
-## Установка PC
+## Установка на PC
 **1)** Установить расширение для браузера ([*TamperMonkey*](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для **Chrome, Yandex, Opera**) или ([*TamperMonkey*](https://addons.mozilla.org/ru/firefox/addon/tampermonkey) для **Mozilla Firefox**)
 <br />
 <br />
@@ -56,12 +56,11 @@
 **12)** Отдыхать
 
 ## Установка Android
-1. Скачать браузер [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-2. Установить расширение [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
-3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
-4. Установить [AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox/)
-5. Вставить фильтр из инструкции для ПК (три точки - AdBlock - шестерёнка - три полоски - настроить)
-6. Зайти в Pixel Battle
-7. Нажать на кнопку три точки в верхнем правом углу и поставить галочку **"Полная версия"/"Версия для ПК"**
-8. Откинуться на спинку стула и наблюдать :)
-</p>
+**1)** Скачать браузер [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+**2)** Установить расширение [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+**3)** Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
+**4)** Установить [AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox/)
+**5)** Вставить фильтр из инструкции для ПК (три точки - AdBlock - шестерёнка - три полоски - настроить)
+**6)** Зайти в Pixel Battle
+**7)** Нажать на кнопку три точки в верхнем правом углу и поставить галочку **"Полная версия"/"Версия для ПК"**
+**8)** Откинуться на спинку стула и наблюдать :)
