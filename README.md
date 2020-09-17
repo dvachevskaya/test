@@ -1,8 +1,13 @@
 <br />
- <h3 align="center">Best-README-Template</h3>
 
-  <p align="center">
-    New PixelBattle Bot (если будут ошибки - в <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg" эту> конфу спрашивать 
+	<style>
+	h3{
+		background-color: blue
+	}
+	 </style>
+<div background-color="blue">
+  <h3 align="center">
+    New PixelBattle Bot (если будут ошибки - в <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">эту</a> конфу спрашивать 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -13,7 +18,10 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
-</p>
+</h3>
+</div>
+
+
 # New PixelBattle Bot (если будут ошибки - в [эту](https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg) конфу спрашивать )
 ### Установка PC
 1. Использовать браузер **Chrome** или **Yandex**
