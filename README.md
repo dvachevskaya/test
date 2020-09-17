@@ -45,6 +45,7 @@
 <br />
 <br />
 **9)** Вставить туда:
+<br />
  *`https://pixel2019.vkforms.ru/static/js/main*`*
 <br />
 <br />
