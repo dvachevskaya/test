@@ -17,9 +17,9 @@
 
 
 ## Установка PC
-<h3>1.</h3> Установить расширение для браузера ([TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для **Chrome, Yandex, Opera**) или ([TamperMonkey](https://addons.mozilla.org/ru/firefox/addon/tampermonkey) для **Mozilla Firefox**)
+**1.** Установить расширение для браузера ([*TamperMonkey*](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для **Chrome, Yandex, Opera**) или ([*TamperMonkey*](https://addons.mozilla.org/ru/firefox/addon/tampermonkey) для **Mozilla Firefox**)
 <br />
-**2.** Установить расширение для браузера ([AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
+**2.** Установить расширение для браузера ([*AdBlock*](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([*AdBlock*](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
 <br />
 **4.** Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
 <br />
