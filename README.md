@@ -4,7 +4,7 @@
     <img src="https://gistcdn.githack.com/dvachevskaya/4dc06d33f3ba58dd60fe05b90f2a787c/raw/4f8fa5e7cb03e888f1ffb9b4568a43979681d8ae/3rdc.svg" alt="Logo" width="200" height="200">
 </a>
 
-<h1 align="center">New PixelBattle Bot</h1>
+<h1 align="center">Инструкция по установке New PixelBattle Bot</h1>
     <h3 align="center">
         <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">У меня больше одного аккаунта</a>
         ·
