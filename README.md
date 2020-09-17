@@ -5,7 +5,9 @@
 </a>
 
 
-<h1 align="center">New PixelBattle Bot</h1>
+<h3 align="center">New PixelBattle Bot</h3>
+    <br />
+
 <p align="center">
     <br />
     <br />
