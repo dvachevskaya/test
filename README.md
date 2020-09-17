@@ -5,9 +5,7 @@
 </a>
 
 
-<h1 align="center">New PixelBattle Bot</h1>
-    <br />
-    <br />
+<h1 align="center">New PixelBattle Bot</h1><br />
 <p align="center">
 <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a>
 ·
