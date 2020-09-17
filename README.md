@@ -18,7 +18,7 @@
 
 ## Установка PC
 1. Скачать расширение ([TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для Chrome, Yandex, Opera) или ([TamperMonkey](https://addons.mozilla.org/ru/firefox/addon/tampermonkey) для Mozilla Firefox)
-3. Установить [AdBlock для Chrome, Yandex, Opera](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) или [AdBlock для Mozilla Firefox](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox)
+3. Установить ([AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для Chrome, Yandex, Opera) или ([AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для Mozilla Firefox)
 4. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
 5. Нажать на адблок
 ![ad](https://i.imgur.com/nOV2MS6.png)
