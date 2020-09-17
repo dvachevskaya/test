@@ -17,20 +17,20 @@
 
 
 ## Установка PC
-1. Установить расширение для браузера ([TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для **Chrome, Yandex, Opera**) или ([TamperMonkey](https://addons.mozilla.org/ru/firefox/addon/tampermonkey) для **Mozilla Firefox**)
-3. Установить расширение для браузера ([AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
-4. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
-5. Нажать на адблок
+**1.** Установить расширение для браузера ([TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для **Chrome, Yandex, Opera**) или ([TamperMonkey](https://addons.mozilla.org/ru/firefox/addon/tampermonkey) для **Mozilla Firefox**)
+**2.** Установить расширение для браузера ([AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
+**4.** Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
+**5.** Нажать на адблок
 ![ad](https://i.imgur.com/nOV2MS6.png)
-6. Нажать "Параметры"
+**6.** Нажать "Параметры"
 ![param](https://i.imgur.com/crTOOEF.png)
-7. Найти Настроить фильтры вручную
-8. Нажать **настройка**
+**7.** Найти Настроить фильтры вручную
+**8.** Нажать **настройка**
 ![set](https://i.imgur.com/IvANl4u.png)
-9. Вставить туда `https://pixel2019.vkforms.ru/static/js/main*` !!!!
-10. Сохранить
-11. Зайти в Pixel Battle
-12. Наслаждаться
+**9.** Вставить туда `https://pixel2019.vkforms.ru/static/js/main*` !!!!
+**10.** Сохранить
+**11.** Зайти в Pixel Battle
+**12.** Отдыхать
 
 ## Установка Android
 1. Скачать браузер [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
