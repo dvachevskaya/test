@@ -6,16 +6,14 @@
 
 
   <h1 align="center">
-    New PixelBattle Bot (если будут ошибки - в <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">эту</a> конфу спрашивать 
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    New PixelBattle Bot
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Информация по боту</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Обратная связь</a>
   </p>
 </h1>
 
