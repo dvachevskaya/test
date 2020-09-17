@@ -56,11 +56,25 @@
 **12)** Отдыхать
 
 ## Установка Android
-**1)** Скачать браузер [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-**2)** Установить расширение [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
-**3)** Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
-**4)** Установить [AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox/)
+**1)** Скачать браузер [*Firefox*](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+<br />
+<br />
+**2)** Установить расширение для браузера [*ViolentMonkey*](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+<br />
+<br />
+**3)** Установить этот [*скрипт*](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js)
+<br />
+<br />
+**4)** Установить [*AdBlock*](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox/)
+<br />
+<br />
 **5)** Вставить фильтр из инструкции для ПК (три точки - AdBlock - шестерёнка - три полоски - настроить)
-**6)** Зайти в Pixel Battle
+<br />
+<br />
+**6)** Открыть [*Pixel Battle*](https://vk.com/pixelbattle) (или перезагрузить открытую вкладку с ним)
+<br />
+<br />
 **7)** Нажать на кнопку три точки в верхнем правом углу и поставить галочку **"Полная версия"/"Версия для ПК"**
+<br />
+<br />
 **8)** Откинуться на спинку стула и наблюдать :)
