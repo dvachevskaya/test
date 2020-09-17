@@ -26,7 +26,7 @@
 **4)** Установить [*скрипт*](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js)
 <br />
 <br />
-**5)** Нажать на адблок
+**5)** Нажать на **адблок**
 <br />
 ![ad](https://i.imgur.com/nOV2MS6.png)
 <br />
