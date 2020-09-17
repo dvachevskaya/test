@@ -1,23 +1,21 @@
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+
     <img src="https://gistcdn.githack.com/dvachevskaya/4dc06d33f3ba58dd60fe05b90f2a787c/raw/4f8fa5e7cb03e888f1ffb9b4568a43979681d8ae/3rdc.svg" alt="Logo" width="200" height="200">
-  </a>
 
 
-  <h1 align="center">
-    New PixelBattle Bot
-    <br />
-    <br />
+
+<h1 align="center">
+New PixelBattle Bot
 <h3 align="center">
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a>
-    ·
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
-    ·
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Обратная связь</a>
+<a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a>
+·
+<a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
+·
+<a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Обратная связь</a>
 </h3>
 </h1>
-
+<br />
 
 # New PixelBattle Bot (если будут ошибки - в [эту](https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg) конфу спрашивать )
 ### Установка PC
