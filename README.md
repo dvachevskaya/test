@@ -1,6 +1,6 @@
-
+<br />
 <p align="center">
-<a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">
+    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">
     <img src="https://gistcdn.githack.com/dvachevskaya/4dc06d33f3ba58dd60fe05b90f2a787c/raw/4f8fa5e7cb03e888f1ffb9b4568a43979681d8ae/3rdc.svg" alt="Logo" width="200" height="200">
 </a>
 
@@ -15,6 +15,7 @@ New PixelBattle Bot
 ·
 <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Обратная связь</a>
 </h3>
+</p>
 <br />
 
 
