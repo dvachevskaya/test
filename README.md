@@ -9,11 +9,11 @@
     New PixelBattle Bot
     <br />
     <br />
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> <h3>Информация по боту</h3></a>
+   <h3> <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a> </h3>
     ·
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"><h3>Баг репорт</h3></a>
+    <h3> <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"><h3>Баг репорт</a></h3>
     ·
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"><h3>Обратная связь</h3></a>
+    <h3> <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"><h3>Обратная связь</a></h3>
   </p>
 </h1>
 
