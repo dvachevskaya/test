@@ -6,7 +6,6 @@
 
 <h1 align="center">New PixelBattle Bot</h1>
 <p align="center">
-
 <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a>
 ·
 <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
