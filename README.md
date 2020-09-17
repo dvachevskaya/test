@@ -27,6 +27,7 @@
 <br />
 <br />
 **5)** Нажать на адблок
+<br />
 ![ad](https://i.imgur.com/nOV2MS6.png)
 <br />
 <br />
