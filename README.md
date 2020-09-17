@@ -23,11 +23,11 @@
 **2.** Установить расширение для браузера ([*AdBlock*](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([*AdBlock*](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
 <br />
 <br />
-**4.** Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
-<br />
-<br />
-**5.** Нажать на адблок
+**4.** Нажать на адблок
 ![ad](https://i.imgur.com/nOV2MS6.png)
+<br />
+<br />
+**5.** Установить [*скрипт*](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js)
 <br />
 <br />
 **6.** Нажать "Параметры"
