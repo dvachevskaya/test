@@ -7,10 +7,7 @@
 
 <h3 align="center">New PixelBattle Bot</h3>
     <br />
-
 <p align="center">
-    <br />
-    <br />
 <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a>
 ·
 <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
