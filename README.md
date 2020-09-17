@@ -5,18 +5,18 @@
 </a>
 
 <h1 align="center">New PixelBattle Bot</h1>
-<p align="center">
-<a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a>
-·
-<a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
-·
-<a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Обратная связь</a>
-</p>
+    <p align="center">
+        <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a>
+        ·
+        <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
+        ·
+        <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Обратная связь</a>
+    </p>
 </p>
     <br />
 
 
-<h2> Установка PC </h2>
+## Установка PC
 1. Использовать браузер **Chrome** или **Yandex**
 2. Скачать расширение [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
@@ -33,7 +33,7 @@
 11. Зайти в Pixel Battle
 12. Наслаждаться
 
-### Установка Android
+## Установка Android
 1. Скачать браузер [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 2. Установить расширение [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
