@@ -17,19 +17,29 @@
 
 
 ## Установка PC
-**1.** Установить расширение для браузера ([TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для **Chrome, Yandex, Opera**) или ([TamperMonkey](https://addons.mozilla.org/ru/firefox/addon/tampermonkey) для **Mozilla Firefox**)
+<h3>1.<h3> Установить расширение для браузера ([TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для **Chrome, Yandex, Opera**) или ([TamperMonkey](https://addons.mozilla.org/ru/firefox/addon/tampermonkey) для **Mozilla Firefox**)
+<br />
 **2.** Установить расширение для браузера ([AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
+<br />
 **4.** Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
+<br />
 **5.** Нажать на адблок
 ![ad](https://i.imgur.com/nOV2MS6.png)
+<br />
 **6.** Нажать "Параметры"
 ![param](https://i.imgur.com/crTOOEF.png)
+<br />
 **7.** Найти Настроить фильтры вручную
+<br />
 **8.** Нажать **настройка**
 ![set](https://i.imgur.com/IvANl4u.png)
+<br />
 **9.** Вставить туда `https://pixel2019.vkforms.ru/static/js/main*` !!!!
+<br />
 **10.** Сохранить
+<br />
 **11.** Зайти в Pixel Battle
+<br />
 **12.** Отдыхать
 
 ## Установка Android
