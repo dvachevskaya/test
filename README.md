@@ -5,13 +5,13 @@
 </a>
 
 <h1 align="center">New PixelBattle Bot</h1>
-    <p align="center">
+    <h1 align="center">
         <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">У меня больше одного аккаунта</a>
         ·
         <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
         ·
         <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Информация по боту</a>
-    </p>
+    </h1>
 </p>
     <br />
 
