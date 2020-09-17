@@ -17,8 +17,8 @@ New PixelBattle Bot
 </h3>
 <br />
 
-# New PixelBattle Bot (если будут ошибки - в [эту](https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg) конфу спрашивать )
-### Установка PC
+
+<h2> Установка PC </h2>
 1. Использовать браузер **Chrome** или **Yandex**
 2. Скачать расширение [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
