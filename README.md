@@ -2,7 +2,7 @@
  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    New PixelBattle Bot (если будут ошибки - в <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg" эту> конфу спрашивать 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
