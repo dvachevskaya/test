@@ -1,8 +1,8 @@
 <br />
 <p align="center">
-
+<a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту
     <img src="https://gistcdn.githack.com/dvachevskaya/4dc06d33f3ba58dd60fe05b90f2a787c/raw/4f8fa5e7cb03e888f1ffb9b4568a43979681d8ae/3rdc.svg" alt="Logo" width="200" height="200">
-
+</a>
 
 
 <h1 align="center">
@@ -44,3 +44,4 @@ New PixelBattle Bot
 6. Зайти в Pixel Battle
 7. Нажать на кнопку три точки в верхнем правом углу и поставить галочку **"Полная версия"/"Версия для ПК"**
 8. Откинуться на спинку стула и наблюдать :)
+</p>
