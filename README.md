@@ -1,11 +1,10 @@
 <br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-	<style>
-	h3{
-		background-color: blue
-	}
-	 </style>
-<div background-color="blue">
+
   <h3 align="center">
     New PixelBattle Bot (если будут ошибки - в <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">эту</a> конфу спрашивать 
     <br />
@@ -19,7 +18,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </h3>
-</div>
 
 
 # New PixelBattle Bot (если будут ошибки - в [эту](https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg) конфу спрашивать )
