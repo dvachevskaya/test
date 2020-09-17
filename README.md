@@ -10,11 +10,11 @@
     <br />
     <br />
 <h3 align="center">
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту 
+    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"> Информация по боту</a>
     ·
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"><h3>Баг репорт</a>
+    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
     ·
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg"><h3>Обратная связь</a>
+    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Обратная связь</a>
 </h3>
 </h1>
 
