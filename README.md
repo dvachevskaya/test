@@ -44,7 +44,7 @@
 ![set](https://i.imgur.com/IvANl4u.png)
 <br />
 <br />
-**9)** Вставить туда:
+**9)** Вставить туда
 <br />
  *`https://pixel2019.vkforms.ru/static/js/main*`*
 <br />
